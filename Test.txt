@@ -1,1 +1,2 @@
 Hello, Welcome to the Git World !
+We are going to clone,pull and push the files !
